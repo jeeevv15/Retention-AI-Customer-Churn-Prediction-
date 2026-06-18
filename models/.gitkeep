@@ -1,0 +1,1 @@
+Trained model files (churn_model.pkl, preprocessor.pkl) are saved here at runtime after training.
