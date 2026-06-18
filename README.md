@@ -77,7 +77,17 @@ streamlit run app/streamlit_app.py
 ```
 
 Then open **http://localhost:8501** in your browser.
+---
+SCREENSHOTS
 
+<img width="761" height="317" alt="Screenshot 2026-06-15 193333" src="https://github.com/user-attachments/assets/f9dfaf46-e8e0-4a2c-9d0a-6b1962387acf" />
+<img width="749" height="374" alt="Screenshot 2026-06-15 193322" src="https://github.com/user-attachments/assets/5bec9483-ea33-4b12-bfa8-e1b8606a3654" />
+<img width="735" height="354" alt="Screenshot 2026-06-15 193227" src="https://github.com/user-attachments/assets/b77467af-6036-4f37-b1b5-2c9b9191a774" />
+<img width="815" height="322" alt="Screenshot 2026-06-15 193141" src="https://github.com/user-attachments/assets/fdef43c3-3a45-43c7-b696-564036e826bc" />
+<img width="805" height="324" alt="Screenshot 2026-06-15 193123" src="https://github.com/user-attachments/assets/9a2edf82-9746-4b31-94a9-f7058d1cd543" />
+<img width="814" height="383" alt="Screenshot 2026-06-15 193101" src="https://github.com/user-attachments/assets/8130727d-ac3c-4ba0-8ed9-b20d3b3bc597" />
+<img width="790" height="361" alt="Screenshot 2026-06-15 193044" src="https://github.com/user-attachments/assets/4518c1dd-b424-4262-986c-a31a9fc4a0fc" />
+<img width="954" height="409" alt="Screenshot 2026-06-15 192926" src="https://github.com/user-attachments/assets/363ad393-3597-418a-88fb-fd6bea8200ac" />
 ---
 
 ## 📊 Dashboard Pages
